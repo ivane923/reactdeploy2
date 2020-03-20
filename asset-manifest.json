@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ivane923/reactdeploy2.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ivane923/reactdeploy2.git/static/js/main.ad5f5e48.chunk.js",
+    "main.js.map": "/ivane923/reactdeploy2.git/static/js/main.ad5f5e48.chunk.js.map",
+    "runtime-main.js": "/ivane923/reactdeploy2.git/static/js/runtime-main.63c4ab16.js",
+    "runtime-main.js.map": "/ivane923/reactdeploy2.git/static/js/runtime-main.63c4ab16.js.map",
+    "static/js/2.661b7290.chunk.js": "/ivane923/reactdeploy2.git/static/js/2.661b7290.chunk.js",
+    "static/js/2.661b7290.chunk.js.map": "/ivane923/reactdeploy2.git/static/js/2.661b7290.chunk.js.map",
+    "index.html": "/ivane923/reactdeploy2.git/index.html",
+    "precache-manifest.6fab8d13bfe863410c210ae70da72728.js": "/ivane923/reactdeploy2.git/precache-manifest.6fab8d13bfe863410c210ae70da72728.js",
+    "service-worker.js": "/ivane923/reactdeploy2.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ivane923/reactdeploy2.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.661b7290.chunk.js.LICENSE.txt": "/ivane923/reactdeploy2.git/static/js/2.661b7290.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ivane923/reactdeploy2.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63c4ab16.js",
+    "static/js/2.661b7290.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ad5f5e48.chunk.js"
+  ]
+}
